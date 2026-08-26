@@ -9,7 +9,7 @@ I enjoy working on production AI systems: shipping agents with rigorous tests an
 - 🤖 **[ai-scheduling-agent](https://github.com/anjanakummetha/ai-scheduling-agent)**  Production AI executive assistant that triages email and schedules meetings end-to-end for a real CEO. Python · Claude API · MCP (88 custom tools) · human-in-the-loop Teams approvals · 1,400-test CI suite.
 - 📊 **[ceo-executive-dashboard](https://github.com/anjanakummetha/ceo-executive-dashboard)** Executive dashboard with AI morning briefings from calendar, email, and CRM data. Next.js · TypeScript · strictly read-only integration layer.
 - 🎓 **[iep-management-system](https://github.com/anjanakummetha/iep-management-system)**  Special-education IEP platform with LLM document extraction and IDEA-compliance risk scoring. Next.js · Supabase (Postgres RLS).
-- ♻️ **[EcoSnap](https://github.com/anjanakummetha/EcoSnap)** Gamified recycling app with Gemini AI image classification. HopperHacks 2026 Sustainability Track Winner. React · Three.js.
+- ♻️ **[ecoSnap](https://github.com/anjanakummetha/EcoSnap)** Gamified recycling app with Gemini AI image classification. HopperHacks 2026 Sustainability Track Winner. React · Three.js.
 
 ## 🧰 Tools I work with
 
