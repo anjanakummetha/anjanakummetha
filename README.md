@@ -2,7 +2,7 @@
 
 **CS @ Stony Brook University (Honors College, AI & Data Science Specialization)** · **AI Agent Engineering Intern @ Iconic Founders Group** · **Break Through Tech AI Fellow @ Cornell Tech**
 
-I enjoy working on building production AI systems: shipping agents with rigorous tests and safety rails.
+I enjoy working on production AI systems: shipping agents with rigorous tests and safety rails.
 
 ## 🔨 What I've built
 
